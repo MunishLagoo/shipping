@@ -1,3 +1,3 @@
 @Library('roboshop') _
-java(COMPONENT : 'payment',
+java(COMPONENT : 'shipping',
      LABEL     : 'WORKSTATION')
