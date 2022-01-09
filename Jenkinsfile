@@ -1,3 +1,6 @@
 @Library('roboshop') _
-java(COMPONENT : 'shipping',
+// java(COMPONENT : 'shipping',
+//      LABEL     : 'WORKSTATION')
+
+docker(COMPONENT : 'shipping',
      LABEL     : 'WORKSTATION')
